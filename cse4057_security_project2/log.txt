@@ -1,0 +1,8 @@
+CLIENT: Key pair generated.
+SERVER: Certificate copy sent to client.
+CLIENT: Certificate verified.
+CLIENT: Key pair generated.
+CLIENT: Certificate verified.
+SERVER: Certificate copy sent to client.
+SERVER: Image data sent to client.
+CLIENT: Image downloaded.
