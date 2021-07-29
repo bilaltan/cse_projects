@@ -4,15 +4,4 @@ I actually did not proud of the quality of this code & project
 
 But it works... 
 
-
-****
-
-
-One day...
-
-
-*
-**
-***
-**
-*
+Contact me if help needed.
